@@ -1,0 +1,4 @@
+Model,C-index (mean ± std)
+Coxnet,0.648 ± 0.047
+RSF,0.645 ± 0.029
+GBM,0.630 ± 0.031
